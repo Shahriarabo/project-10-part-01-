@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.btn-outline-info.text-dark {
+	padding: 7px;
+}
+hr {
+	width: 45px;
+	height: 3px;
+	color: black;
+}
+.bre-title h1 {
+	font-size: 64px;
+}
+.section-img {
+	background: rgb(250,250,250);
+}
+.fa-solid.fa-car-battery.fs-1 {
+	color: #c85e51;
+}
+.fa-solid.fa-box-archive.fs-1 {
+	 color: #c85e51;
+}
+.fa-solid.fa-gas-pump.fs-1 {
+	color: #c85e51;
+}
+.box-title.mx-5 {
+	margin-top: -36px;
+}
+.section-six{
+	background-image: url(./img/1.jpg);
+	background-position: center;
+	background-size: cover;
+	padding: 80px 0 40px;
+	height: 615px;
+}
+.section_seven hr {
+	margin: 0 auto;
+	height: 3px;
+	color: black;
+}
+.card img {
+	position: relative;
+}
+.car-body {
+	position:absolute;
+   right: 0;
+   background: #c85e51;
+   color: #FFF;
+   padding: 6px 10px;
+	top: 166px;
+}
+.section_ber-col hr{
+	height: 5px;
+}
+.w-100 {
+	height: 300px;
+}
+.section-nint hr{
+	color: #000;
+}
+.section-nint h1{
+ font-size:  70px;
+}
+.section-nine{
+	background: #f8503a;
+}
+.nine-tow.mt-5{
+	background-image: url(./img/6.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.section-ten{
+	background-image: url(./img/index.png);
+	background-size: cover;
+	background-position: center;
+	height: 550px;
+}
+.btn-group {
+	margin-bottom: 5px;
+}
